@@ -1,0 +1,5 @@
+/Users/j.hyeong/Projects/Test/Test/bin/Debug/Test.exe
+/Users/j.hyeong/Projects/Test/Test/bin/Debug/Test.pdb
+/Users/j.hyeong/Projects/Test/Test/obj/x86/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/j.hyeong/Projects/Test/Test/obj/x86/Debug/Test.exe
+/Users/j.hyeong/Projects/Test/Test/obj/x86/Debug/Test.pdb
